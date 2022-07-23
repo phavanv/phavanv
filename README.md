@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phavanvelnathan
 - 👀 I’m interested in ... Learning new skills
 - 🌱 I’m currently learning ... Chemical Enginnering 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for work 
 - 📫 How to reach me ... pvelnath@uwaterloo.ca
 
 <!---
