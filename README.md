@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phavanvelnathan
+👋 Hi, I’m Phavan Velnathan
 - 👀 I’m interested in ... Learning new skills
 - 🌱 I’m currently learning ... Chemical Enginnering 
 - 💞️ I’m looking for work 
